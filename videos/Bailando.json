@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Bailando/Bailando_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FBailando_ULTRA.webm?v=1619028890376",
+    "jmcs://jd-contents/Bailando/Bailando_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FBailando_HIGH.webm?v=1619029111296",
+    "jmcs://jd-contents/Bailando/Bailando_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FBailando_MID.webm?v=1619029053732",
+    "jmcs://jd-contents/Bailando/Bailando_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FBailando_LOW.webm?v=1619028998295",
+    "jmcs://jd-contents/Bailando/Bailando.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FBailando.ogg?v=1619032775042"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/JohnCena/JohnCena_ULTRA.webm": "https://cdn.glitch.com/347ba310-93fd-4308-ada8-bc16e9d3966d/JohnCena_ULTRA.webm",
+    "jmcs://jd-contents/JohnCena/JohnCena_HIGH.webm": "https://cdn.glitch.com/347ba310-93fd-4308-ada8-bc16e9d3966d/JohnCena_HIGH.webm",
+    "jmcs://jd-contents/JohnCena/JohnCena_MID.webm": "https://cdn.glitch.com/347ba310-93fd-4308-ada8-bc16e9d3966d/JohnCena_MID.webm",
+    "jmcs://jd-contents/JohnCena/JohnCena_LOW.webm": "https://cdn.glitch.com/347ba310-93fd-4308-ada8-bc16e9d3966d/JohnCena_LOW.webm",
+    "jmcs://jd-contents/JohnCena/JohnCena.ogg": "https://cdn.glitch.com/347ba310-93fd-4308-ada8-bc16e9d3966d/JohnCena.ogg"
+  }
+}

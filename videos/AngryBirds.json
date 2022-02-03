@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/AngryBirds/AngryBirds_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FAngryBirds_ULTRA.webm?v=1617472466867",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FAngryBirds_HIGH.webm?v=1617472467454",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FAngryBirds_MID.webm?v=1617472448304",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FAngryBirds_LOW.webm?v=1617472458465",
+    "jmcs://jd-contents/AngryBirds/AngryBirds.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FAngryBirds.ogg?v=1617472449144"
+  }
+}

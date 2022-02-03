@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWhatIsLove_ULTRA.webm?v=1617355971608",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWhatIsLove_HIGH.webm?v=1617355935114",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWhatIsLove_MID.webm?v=1617355937767",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWhatIsLove_LOW.webm?v=1617355919497",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWhatIsLove.ogg?v=1617355895171"
+  }
+}

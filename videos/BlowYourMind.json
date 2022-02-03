@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FBlowYourMind_ULTRA.webm?v=1615818503305",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FBlowYourMind_HIGH.webm?v=1615818439297",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FBlowYourMind_MID.webm?v=1615818391349",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FBlowYourMind_LOW.webm?v=1615818346350",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FBlowYourMind.ogg?v=1615818334783"
+  }
+}

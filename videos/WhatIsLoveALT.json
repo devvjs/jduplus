@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/WhatIsLoveALT/WhatIsLoveALT_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWhatIsLoveALT_ULTRA.webm?v=1617355968569",
+    "jmcs://jd-contents/WhatIsLoveALT/WhatIsLoveALT_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWhatIsLoveALT_HIGH.webm?v=1617355891038",
+    "jmcs://jd-contents/WhatIsLoveALT/WhatIsLoveALT_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWhatIsLoveALT_MID.webm?v=1617355873104",
+    "jmcs://jd-contents/WhatIsLoveALT/WhatIsLoveALT_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWhatIsLoveALT_LOW.webm?v=1617355860442",
+    "jmcs://jd-contents/WhatIsLoveALT/WhatIsLoveALT.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWhatIsLoveALT.ogg?v=1617355937952"
+  }
+}

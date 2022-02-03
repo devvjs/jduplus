@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/JohnWALT/JohnWALT_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FJohnWALT_ULTRA.webm?v=1617117008211",
+    "jmcs://jd-contents/JohnWALT/JohnWALT_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FJohnWALT_HIGH.webm?v=1617116930853",
+    "jmcs://jd-contents/JohnWALT/JohnWALT_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FJohnWALT_MID.webm?v=1617116768288",
+    "jmcs://jd-contents/JohnWALT/JohnWALT_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FJohnWALT_LOW.webm?v=1617116931182",
+    "jmcs://jd-contents/JohnWALT/JohnWALT.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FJohnWALT.ogg?v=1617117023345"
+  }
+}

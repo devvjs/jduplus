@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/ElTiki/ElTiki_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FElTiki_ULTRA.webm?v=1617394414326",
+    "jmcs://jd-contents/ElTiki/ElTiki_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FElTiki_HIGH.webm?v=1617394274367",
+    "jmcs://jd-contents/ElTiki/ElTiki_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FElTiki_MID.webm?v=1617394412306",
+    "jmcs://jd-contents/ElTiki/ElTiki_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FElTiki_LOW.webm?v=1617394412749",
+    "jmcs://jd-contents/ElTiki/ElTiki.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FElTiki.ogg?v=1617394270468"
+  }
+}

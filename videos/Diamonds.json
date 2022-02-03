@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Diamonds/Diamonds_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fdiamonds_ULTRA.webm?v=1616322372363",
+    "jmcs://jd-contents/Diamonds/Diamonds_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fdiamonds_HIGH.webm?v=1616322201374",
+    "jmcs://jd-contents/Diamonds/Diamonds_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fdiamonds_MID.webm?v=1616322043362",
+    "jmcs://jd-contents/Diamonds/Diamonds_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fdiamonds_LOW.webm?v=1616321938386",
+    "jmcs://jd-contents/Diamonds/Diamonds.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fdiamonds.ogg?v=1616321913425"
+  }
+}

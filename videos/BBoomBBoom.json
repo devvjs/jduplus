@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 535312,
+  "urls": {
+    "jmcs://jd-contents/BboomBboom/BboomBboom_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2Fbboombboom_ULTRA.webm?v=1628678369978",
+    "jmcs://jd-contents/BboomBboom/BboomBboom_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2Fbboombboom_ULTRA.webm?v=1628678369978",
+    "jmcs://jd-contents/BboomBboom/BboomBboom_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2Fbboombboom_MID.webm?v=1628678360920",
+    "jmcs://jd-contents/BboomBboom/BboomBboom_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2Fbboombboom_LOW.webm?v=1628678360920",
+    "jmcs://jd-contents/BBoomBBoom/BBoomBBoom.ogg": "https://cdn.discordapp.com/attachments/839524821519564801/875077076359725116/bbombom32.ogg"
+  }
+}

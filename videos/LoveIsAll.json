@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_ULTRA.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FLoveIsAll_ULTRA.webm?v=1618651979625",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_MID.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FLoveIsAll_MID.webm?v=1618651706639",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_LOW.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FLoveIsAll_LOW.webm?v=1618651634644",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_HIGH.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FLoveIsAll_HIGH.webm?v=1618651802642",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll.ogg": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FLoveIsAll.ogg?v=1618651621697"
+  }
+}

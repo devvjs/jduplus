@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/ShapeOfYou/ShapeOfYou_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FShapeOfYou_ULTRA.webm?v=1617127261338",
+    "jmcs://jd-contents/ShapeOfYou/ShapeOfYou_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FShapeOfYou_HIGH.webm?v=1617127287300",
+    "jmcs://jd-contents/ShapeOfYou/ShapeOfYou_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FShapeOfYou_MID.webm?v=1617127104297",
+    "jmcs://jd-contents/ShapeOfYou/ShapeOfYou_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FShapeOfYou_LOW.webm?v=1617127022346",
+    "jmcs://jd-contents/ShapeOfYou/ShapeOfYou.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FShapeOfYou.ogg?v=1617125126331"
+  }
+}

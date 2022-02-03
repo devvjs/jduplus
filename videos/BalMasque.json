@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/BalMasque/BalMasque_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FBalMasque_ULTRA.webm?v=1614006359369",
+    "jmcs://jd-contents/BalMasque/BalMasque_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FBalMasque_HIGH.webm?v=1614006152696",
+    "jmcs://jd-contents/BalMasque/BalMasque_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FBalMasque_MID.webm?v=1614006038681",
+    "jmcs://jd-contents/BalMasque/BalMasque_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FBalMasque_LOW.webm?v=1614005959693",
+    "jmcs://jd-contents/BalMasque/BalMasque.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FBalMasque.ogg?v=1614005943986"
+  }
+}

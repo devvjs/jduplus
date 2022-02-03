@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTheFinalCountdown_ULTRA.webm?v=1619883670685",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTheFinalCountdown_HIGH.webm?v=1619883605923",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTheFinalCountdown_MID.webm?v=1619883572788",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTheFinalCountdown_LOW.webm?v=1619883542855",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTheFinalCountdown.ogg?v=1619883537788"
+  }
+}

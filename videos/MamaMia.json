@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/MamaMia/MamaMia_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMamaMia_ULTRA.webm?v=1615218203597",
+    "jmcs://jd-contents/MamaMia/MamaMia_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMamaMia_HIGH.webm?v=1615218125972",
+    "jmcs://jd-contents/MamaMia/MamaMia_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMamaMia_MID.webm?v=1615218080195",
+    "jmcs://jd-contents/MamaMia/MamaMia_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMamaMia_LOW.webm?v=1615217991124",
+    "jmcs://jd-contents/MamaMia/MamaMia.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMamaMia.ogg?v=1615217998093"
+  }
+}

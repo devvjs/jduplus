@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Luftballons/Luftballons_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FLuftballons_ULTRA.webm?v=1616956984307",
+    "jmcs://jd-contents/Luftballons/Luftballons_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FLuftballons_HIGH.webm?v=1616956899335",
+    "jmcs://jd-contents/Luftballons/Luftballons_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FLuftballons_MID.webm?v=1616956817304",
+    "jmcs://jd-contents/Luftballons/Luftballons_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FLuftballons_LOW.webm?v=1616956743353",
+    "jmcs://jd-contents/Luftballons/Luftballons.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FLuftballons.ogg?v=1616956804294"
+  }
+}

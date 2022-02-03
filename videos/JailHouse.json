@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/JailHouse/JailHouse_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FJailHouse_ULTRA.webm?v=1619889072101",
+    "jmcs://jd-contents/JailHouse/JailHouse_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FJailHouse_HIGH.webm?v=1619889034605",
+    "jmcs://jd-contents/JailHouse/JailHouse_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FJailHouse_MID.webm?v=1619889010768",
+    "jmcs://jd-contents/JailHouse/JailHouse_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FJailHouse_LOW.webm?v=1619888989888",
+    "jmcs://jd-contents/JailHouse/JailHouse.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FJailHouse.ogg?v=1619888985782"
+  }
+}

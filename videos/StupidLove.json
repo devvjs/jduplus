@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 3,
+  "urls": {
+    "jmcs://jd-contents/StupidLove/StupidLove_ULTRA.webm": "https://cdn.glitch.com/50785501-e052-480f-8dd7-3c9a193b662f%2FStupidLove_ULTRA.webm?v=1611399685155",
+    "jmcs://jd-contents/StupidLove/StupidLove_HIGH.webm": "https://cdn.glitch.com/50785501-e052-480f-8dd7-3c9a193b662f%2FStupidLove_HIGH.webm?v=1611399625335",
+    "jmcs://jd-contents/StupidLove/StupidLove_MID.webm": "https://cdn.glitch.com/50785501-e052-480f-8dd7-3c9a193b662f%2FStupidLove_MID.webm?v=1611399590778",
+    "jmcs://jd-contents/StupidLove/StupidLove_LOW.webm": "https://cdn.glitch.com/50785501-e052-480f-8dd7-3c9a193b662f%2FStupidLove_LOW.webm?v=1611399565761",
+    "jmcs://jd-contents/StupidLove/StupidLove.ogg": "https://cdn.glitch.com/50785501-e052-480f-8dd7-3c9a193b662f%2FStupidLove.ogg?v=1611399560281"
+  }
+}

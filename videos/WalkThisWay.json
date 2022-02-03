@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/WalkThisWay/WalkThisWay_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FWalkThisWay_ULTRA.webm?v=1619028214090",
+    "jmcs://jd-contents/WalkThisWay/WalkThisWay_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FWalkThisWay_HIGH.webm?v=1619028072324",
+    "jmcs://jd-contents/WalkThisWay/WalkThisWay_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FWalkThisWay_MID.webm?v=1619028152348",
+    "jmcs://jd-contents/WalkThisWay/WalkThisWay_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FWalkThisWay_LOW.webm?v=1619027938281",
+    "jmcs://jd-contents/WalkThisWay/WalkThisWay.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FWalkThisWay.ogg?v=1619027920289"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWomanLikeMe_ULTRA.webm?v=1614274767411",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWomanLikeMe_HIGH.webm?v=1614274476374",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWomanLikeMe_MID.webm?v=1614274206382",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWomanLikeMe_LOW.webm?v=1614274239373",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWomanLikeMe.ogg?v=1614274095406"
+  }
+}

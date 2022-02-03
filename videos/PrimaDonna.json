@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_ULTRA.webm": "https://cdn.glitch.com/a1971eb1-822b-4059-aceb-61880158ac8c/PrimaDonna_ULTRA.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_HIGH.webm": "https://cdn.glitch.com/a1971eb1-822b-4059-aceb-61880158ac8c/PrimaDonna_HIGH.webm  ",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MID.webm": "https://cdn.glitch.com/a1971eb1-822b-4059-aceb-61880158ac8c/PrimaDonna_MID.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_LOW.webm": "https://cdn.glitch.com/a1971eb1-822b-4059-aceb-61880158ac8c/PrimaDonna_LOW.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna.ogg": "https://cdn.glitch.com/a1971eb1-822b-4059-aceb-61880158ac8c/PrimaDonna.ogg"
+  }
+}

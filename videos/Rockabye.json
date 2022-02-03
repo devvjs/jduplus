@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Rockabye/Rockabye_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FRockabye_ULTRA.webm?v=1617127801282",
+    "jmcs://jd-contents/Rockabye/Rockabye_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FRockabye_HIGH.webm?v=1617127667355",
+    "jmcs://jd-contents/Rockabye/Rockabye_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FRockabye_MID.webm?v=1617127519291",
+    "jmcs://jd-contents/Rockabye/Rockabye_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FRockabye_LOW.webm?v=1617127346004",
+    "jmcs://jd-contents/Rockabye/Rockabye.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FRockabye.ogg?v=1617124602367"
+  }
+}

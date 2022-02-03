@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Despacito/Despacito_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FDespacito_ULTRA.webm?v=1616398322571",
+    "jmcs://jd-contents/Despacito/Despacito_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FDespacito_HIGH.webm?v=1616398289602",
+    "jmcs://jd-contents/Despacito/Despacito_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FDespacito_MID.webm?v=1616398228548",
+    "jmcs://jd-contents/Despacito/Despacito_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FDespacito_LOW.webm?v=1616398196554",
+    "jmcs://jd-contents/Despacito/Despacito.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FDespacito.ogg?v=1616396742569"
+  }
+}

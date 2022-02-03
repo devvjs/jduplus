@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/SangriaWine/SangriaWine_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSangriaWine_ULTRA.webm?v=1615313836391",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSangriaWine_HIGH.webm?v=1615313599389",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSangriaWine_MID.webm?v=1615313623469",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSangriaWine_LOW.webm?v=1615313532405",
+    "jmcs://jd-contents/SangriaWine/SangriaWine.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSangriaWine.ogg?v=1615313394589"
+  }
+}

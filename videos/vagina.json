@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/vagina/vagina_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FLush_ULTRA.webm?v=1615704305419",
+    "jmcs://jd-contents/vagina/vagina_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FLush_HIGH.webm?v=1615704214549",
+    "jmcs://jd-contents/vagina/vagina_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FLush_MID.webm?v=1615704196052",
+    "jmcs://jd-contents/vagina/vagina_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FLush_LOW.webm?v=1615704160077",
+    "jmcs://jd-contents/vagina/vagina.ogg": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2Fvagina.ogg?v=1624213611879"
+  }
+}

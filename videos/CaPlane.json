@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/CaPlane/CaPlane_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCaPlane_ULTRA.webm?v=1615317684391",
+    "jmcs://jd-contents/CaPlane/CaPlane_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCaPlane_HIGH.webm?v=1615317635442",
+    "jmcs://jd-contents/CaPlane/CaPlane_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCaPlane_MID.webm?v=1615317599370",
+    "jmcs://jd-contents/CaPlane/CaPlane_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCaPlane_LOW.webm?v=1615317570003",
+    "jmcs://jd-contents/CaPlane/CaPlane.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCaPlane.ogg?v=1615317566394"
+  }
+}

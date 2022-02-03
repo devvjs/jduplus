@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Tetris/Tetris_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTetris_ULTRA.webm?v=1619024392981",
+    "jmcs://jd-contents/Tetris/Tetris_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTetris_HIGH.webm?v=1619024304997",
+    "jmcs://jd-contents/Tetris/Tetris_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTetris_MID.webm?v=1619024210153",
+    "jmcs://jd-contents/Tetris/Tetris_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTetris_LOW.webm?v=1619024178970",
+    "jmcs://jd-contents/Tetris/Tetris.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTetris.ogg?v=1619024345973"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/WeCantStopDLCJD2015Version/WeCantStopDLCJD2015Version_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWeCantStopDLCJD2015Version_ULTRA.webm?v=1617301473948",
+    "jmcs://jd-contents/WeCantStopDLCJD2015Version/WeCantStopDLCJD2015Version_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWeCantStopDLCJD2015Version_HIGH.webm?v=1617301456779",
+    "jmcs://jd-contents/WeCantStopDLCJD2015Version/WeCantStopDLCJD2015Version_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWeCantStopDLCJD2015Version_MID.webm?v=1617301460327",
+    "jmcs://jd-contents/WeCantStopDLCJD2015Version/WeCantStopDLCJD2015Version_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWeCantStopDLCJD2015Version_LOW.webm?v=1617301454078",
+    "jmcs://jd-contents/WeCantStopDLCJD2015Version/WeCantStopDLCJD2015Version.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FWeCantStopDLC_Audio.ogg?v=1617301372659"
+  }
+}

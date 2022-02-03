@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/ConCalma/ConCalma_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FConCalma_ULTRA.webm?v=1614026659322",
+    "jmcs://jd-contents/ConCalma/ConCalma_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FConCalma_HIGH.webm?v=1614026442518",
+    "jmcs://jd-contents/ConCalma/ConCalma_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FConCalma_MID.webm?v=1614026311527",
+    "jmcs://jd-contents/ConCalma/ConCalma_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FConCalma_LOW.webm?v=1614026232509",
+    "jmcs://jd-contents/ConCalma/ConCalma.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FConCalma.ogg?v=1614026217519"
+  }
+}

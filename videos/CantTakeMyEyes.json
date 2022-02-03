@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCantTakeMyEyes_ULTRA.webm?v=1616935883319",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCantTakeMyEyes_HIGH.webm?v=1616935658474",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCantTakeMyEyes_MID.webm?v=1616935544297",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCantTakeMyEyes_LOW.webm?v=1616935463312",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCantTakeMyEyes.ogg?v=1616935448317"
+  }
+}

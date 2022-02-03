@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/StepByStep/StepByStep_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FStepByStep_ULTRA.webm?v=1618941297585",
+    "jmcs://jd-contents/StepByStep/StepByStep_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FStepByStep_HIGH.webm?v=1618941104615",
+    "jmcs://jd-contents/StepByStep/StepByStep_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FStepByStep_MID.webm?v=1618941031596",
+    "jmcs://jd-contents/StepByStep/StepByStep_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FStepByStep_LOW.webm?v=1618940937574",
+    "jmcs://jd-contents/StepByStep/StepByStep.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FStepByStep.ogg?v=1618940896171"
+  }
+}

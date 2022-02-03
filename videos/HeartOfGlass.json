@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FHeartOfGlass_ULTRA.webm?v=1618924319577",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FHeartOfGlass_HIGH.webm?v=1618924300695",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FHeartOfGlass_MID.webm?v=1618924265833",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FHeartOfGlass_LOW.webm?v=1618924268919",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FHeartOfGlass.ogg?v=1618924247789"
+  }
+}

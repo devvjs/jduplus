@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Mayores/Mayores_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMayores_ULTRA.webm?v=1615704334013",
+    "jmcs://jd-contents/Mayores/Mayores_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMayores_HIGH.webm?v=1615704260021",
+    "jmcs://jd-contents/Mayores/Mayores_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMayores_MID.webm?v=1615704200486",
+    "jmcs://jd-contents/Mayores/Mayores_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMayores_LOW.webm?v=1615704161462",
+    "jmcs://jd-contents/Mayores/Mayores.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMayores.ogg?v=1615704168012"
+  }
+}

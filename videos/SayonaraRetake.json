@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSayonaraRetake_ULTRA.webm?v=1617125586519",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSayonaraRetake_HIGH.webm?v=1617125191296",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSayonaraRetake_MID.webm?v=1617125104933",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSayonaraRetake_LOW.webm?v=1617124955336",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSayonaraRetake.ogg?v=1617124895445"
+  }
+}

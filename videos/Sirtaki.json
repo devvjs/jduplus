@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Sirtaki/Sirtaki_ULTRA.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FSirtaki_ULTRA.webm?v=1618593818317",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_HIGH.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FSirtaki_HIGH.webm?v=1618593645297",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MID.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FSirtaki_MID.webm?v=1618593561356",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_LOW.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FSirtaki_LOW.webm?v=1618593473122",
+    "jmcs://jd-contents/Sirtaki/Sirtaki.ogg": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FSirtaki.ogg?v=1618593458306"
+  }
+}

@@ -1,0 +1,407 @@
+{
+	"requestSpecificMaps": {
+		"HeadAndHeart": {
+			"artist": "Joel Corry Ft. MNEK",
+			"assets": {
+				"banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+				"coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_Coach_1.tga.ckd/f444ef3b1ee5a4f99458675b1f914262.ckd",
+				"coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_Coach_2.tga.ckd/7ea508741ad38d8cf6fd5669d148a342.ckd",
+				"coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_Cover_Generic.tga.ckd/80164e14a6ddc382198cd28367952845.ckd",
+				"coverKidsImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_Cover_Generic_Kids.tga.ckd/36ca53f6d270fef78b9d4b344939348e.ckd",
+				"coverKids_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_Cover_Online_Kids.tga.ckd/a74315a9fa4379015a6f46f7628a117b.ckd",
+				"cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_Cover_1024.tga.ckd/85d18d6b6936ddc18fa6328b31344ac3.ckd",
+				"cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_Cover_Online.tga.ckd/730f4fddd23e6cd7adcd75e2f27218cd.ckd",
+				"expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_Cover_AlbumBkg.tga.ckd/78a013c64a946195d1de93458da4fd27.ckd",
+				"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_Cover_AlbumCoach.tga.ckd/971d5a6d02fd75da2f39c31c1f72b63b.ckd",
+				"map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/nx/HeadAndHeart_map_bkg.tga.ckd/fc3166ceb072262f5179df18466e702b.ckd",
+				"phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_Coach_1_Phone.png/c0ab0983b28a6109fba043c9d03082f0.png",
+				"phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_Coach_2_Phone.png/86d8d3177552ed54f2411e3a2ef0b8e0.png",
+				"phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_Cover_Phone.jpg/32b07ebd3b005c1e88105cf718e7c314.jpg",
+				"videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_VideoPreview.webm/ce1262a8e9de76c7f24a2ea6a565af07.webm"
+			},
+			"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23415,46829,70244,93659,117073,140488,163903,187317,210732,234146,257561,280976,304390,327805,351220,374634,398049,421464,444878,468293,491707,515122,538537,561951,585366,608781,632195,655610,679024,702439,725854,749268,772683,796098,819512,842927,866342,889756,913171,936585,960000,983415,1006829,1030244,1053659,1077073,1100488,1123903,1147317,1170732,1194146,1217561,1240976,1264390,1287805,1311220,1334634,1358049,1381464,1404878,1428293],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":342,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/headandheart/headandheart_AudioPreview.ogg\"}",
+			"coachCount": 2,
+			"credits": "Written by Joel Louis Corry, Neave Applebaum, Jonathan Courtidis, Daniel Lee Dare, MNEK, Robert Harvey, Kashif Siddiqui, Leo Kaylan and Lewis Thompson. Published by Minds On Fire Ltd. / Universal Music Publishing. / Sony/ATV Music Publishing (UK) Limited (PRS) / Warner/Chappell Music Ltd. Administered by WC Music Corp. / Spirit B-Unique JV S.A.R.L. (ASCAP). Administered by Kobalt Music Publishing America, Inc. All rights reserved. Used with permission. Courtesy of Warner Music UK. By arrangement with Warner Music Group Film & TV Licensing.",
+			"difficulty": 1,
+			"jdmAttributes": [],
+			"lyricsColor": "BF7FFFFF",
+			"lyricsType": 0,
+			"mainCoach": -1,
+			"mapLength": 168.78,
+			"mapName": "HeadAndHeart",
+			"mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"646846\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"665-1155\">\r\n\t\t\t\t\t<Initialization range=\"0-665\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1488611\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"665-1155\">\r\n\t\t\t\t\t<Initialization range=\"0-665\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2960828\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"665-1155\">\r\n\t\t\t\t\t<Initialization range=\"0-665\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5872163\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"665-1162\">\r\n\t\t\t\t\t<Initialization range=\"0-665\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+			"mode": 6,
+			"originalJDVersion": 2021,
+			"packages": {
+				"mapContent": "HeadAndHeart_mapContent"
+			},
+			"parentMapName": "HeadAndHeart",
+			"songColors": {
+				"songColor_1A": "444444FF",
+				"songColor_1B": "111111FF",
+				"songColor_2A": "AAAAAAFF",
+				"songColor_2B": "777777FF"
+			},
+			"status": 3,
+			"sweatDifficulty": 2,
+			"tags": [
+				"Main",
+				"subscribedSong",
+				"Exclusive",
+				"ExcluJD21_Quickplay "
+			],
+			"title": "Head & Heart",
+			"urls": {
+				"jmcs://jd-contents/HeadAndHeart/HeadAndHeart_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_AudioPreview.ogg/04abd70bb3df20f2630ad3b51b9299c6.ogg",
+				"jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_HIGH.vp8.webm/52c6cc5b9fe12b70a35d276c5a95d68f.webm",
+				"jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_HIGH.vp9.webm/a7c879e894fb9796dca093ae7220ca99.webm",
+				"jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_LOW.vp8.webm/b80115e2c9565bab4a39450dfb1a697e.webm",
+				"jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_LOW.vp9.webm/537d239a1772547f880fe6e20bb732d4.webm",
+				"jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_MID.vp8.webm/7a3d0c033e364ef6c28400ef50ef1cd2.webm",
+				"jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_MID.vp9.webm/a90e53c0074720f9f766fcd3e05dccb5.webm",
+				"jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_ULTRA.vp8.webm/28a018ac156b2ec4b75218f487a82501.webm",
+				"jmcs://jd-contents/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeadAndHeart/HeadAndHeart_MapPreviewNoSoundCrop_ULTRA.vp9.webm/73322d65a8e38a58ed9021be9e3d23bb.webm"
+			},
+			"searchTags": [],
+			"searchTagsLocIds": [
+				20002261,
+				15276,
+				15285,
+				15290,
+				9350,
+				15198,
+				15299,
+				9349,
+				15174,
+				15189
+			],
+			"serverChangelist": 0
+		},
+		"Intoxicated": {
+			"artist": "Martin Solveig & GTA",
+			"assets": {
+				"coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/nx/Intoxicated_Coach_1.tga.ckd/f76f4aba58e55bc1078634b9e05768f7.ckd",
+				"coverImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/nx/Intoxicated_Cover_Generic.tga.ckd/3fda5ed53e970db4149bca83f2aa3e9b.ckd",
+				"coverKidsImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/nx/Intoxicated_Cover_Generic_Kids.tga.ckd/36ca53f6d270fef78b9d4b344939348e.ckd",
+				"coverKids_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/nx/Intoxicated_Cover_Online_Kids.tga.ckd/a74315a9fa4379015a6f46f7628a117b.ckd",
+				"cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/nx/Intoxicated_Cover_1024.tga.ckd/50560029694940fc06c566b8c5946fe2.ckd",
+				"cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/nx/Intoxicated_Cover_Online.tga.ckd/ed9c213e1532607d089845a94f16bcea.ckd",
+				"expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/nx/Intoxicated_Cover_AlbumBkg.tga.ckd/be5149090beb5c4bc0f7801ddc8ff2e1.ckd",
+				"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/nx/Intoxicated_Cover_AlbumCoach.tga.ckd/59efff5aa23cdc8b2d64cab97e175a04.ckd",
+				"map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/nx/Intoxicated_map_bkg.tga.ckd/145140e17cb3b97383d5ffe151561559.ckd",
+				"phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_Coach_1_Phone.png/99c3c62483622148bfb71b47c70552a5.png",
+				"phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_Cover_Phone.jpg/d63677efdc0ceabdc02fe510ee58e0a9.jpg",
+				"videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_VideoPreview.webm/c2f7707e81d92bc55606691dab2a4f8b.webm"
+			},
+			"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69120,92160,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345600,368640,391680,414720,437760,460800,483840,506880,529920,552960,576000,599040,622080,645120,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244160,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":413,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/intoxicated/intoxicated_AudioPreview.ogg\"}",
+			"coachCount": 1,
+			"credits": "Written by Julio Mejia, Martin Solveig and Matthew Toth. Published by Three Six Zero Music Publishing Limited (PRS), GTA ASCAP Pub Designee (ASCAP) and GTA BMI Pub Designee (BMI). All rights on behalf of Three Six Zero Music Publishing Limited and GTA ASCAP Pub Designee administered by WC Music Corp. All rights on behalf of Three Six Zero Music Publishing Limited and GTA BMI Pub Designee administered by Warner-Tamerlane Publishing Corp. / Seven20 Songs (ASCAP) / 720 Publishing Worldwide (BMI). Courtesy of Big Beat Records and Spinnin’ Records. By arrangement with Warner Music Group Film & TV Licensing.",
+			"difficulty": 2,
+			"jdmAttributes": [],
+			"lyricsColor": "FF0000FF",
+			"lyricsType": 0,
+			"mainCoach": -1,
+			"mapLength": 200.16,
+			"mapName": "Intoxicated",
+			"mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"658314\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"656-1146\">\r\n\t\t\t\t\t<Initialization range=\"0-656\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1506511\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"656-1146\">\r\n\t\t\t\t\t<Initialization range=\"0-656\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2990862\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"656-1146\">\r\n\t\t\t\t\t<Initialization range=\"0-656\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5944382\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"656-1153\">\r\n\t\t\t\t\t<Initialization range=\"0-656\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+			"mode": 6,
+			"originalJDVersion": 2021,
+			"packages": {
+				"mapContent": "Intoxicated_mapContent"
+			},
+			"parentMapName": "Intoxicated",
+			"skuIds": [],
+			"songColors": {
+				"songColor_1A": "200098FF",
+				"songColor_1B": "1F0039FF",
+				"songColor_2A": "0054FFFF",
+				"songColor_2B": "210000FF"
+			},
+			"status": 3,
+			"sweatDifficulty": 1,
+			"tags": [
+				"Main",
+				"subscribedSong",
+				"Exclusive",
+				"ExcluJD21_Quickplay "
+			],
+			"title": "Intoxicated",
+			"urls": {
+				"jmcs://jd-contents/Intoxicated/Intoxicated_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_AudioPreview.ogg/8506376c3213820aafd1278c44d17085.ogg",
+				"jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_HIGH.vp8.webm/bd682419b4d01c9bf3997d7258313a4c.webm",
+				"jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_HIGH.vp9.webm/ece7d15a88862364d7b8ab83d5c1467d.webm",
+				"jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_LOW.vp8.webm/22b127e4046d581c90fe9594724153f0.webm",
+				"jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_LOW.vp9.webm/26a4638141340b27de7f956b71308e55.webm",
+				"jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_MID.vp8.webm/bd6ac4092ae80c774f1d76dacb13373b.webm",
+				"jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_MID.vp9.webm/daf7bac757ca51b6e85c5764e2d9c94f.webm",
+				"jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_ULTRA.vp8.webm/2dd8ba1d46735aa0d99c9688baa94d50.webm",
+				"jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_ULTRA.vp9.webm/04aac6f426a90ed06d3b5cddaf66ae19.webm"
+			},
+			"searchTags": [],
+			"searchTagsLocIds": [
+				20002261,
+				15275,
+				15286,
+				15289,
+				9350,
+				13813,
+				13825,
+				15191,
+				15196
+			],
+			"serverChangelist": 0
+		},
+		"JohnCena": {
+			"artist": "Sho Madjozi",
+			"assets": {
+				"banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/nx/JohnCena_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+				"coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/nx/JohnCena_Coach_1.tga.ckd/8d8d072d663d067bc6a72eada9fa000b.ckd",
+				"coverImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/nx/JohnCena_Cover_Generic.tga.ckd/07f9bc27c28d7c497ed9d6cd8a8fd748.ckd",
+				"coverKidsImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/nx/JohnCena_Cover_Generic_Kids.tga.ckd/36ca53f6d270fef78b9d4b344939348e.ckd",
+				"coverKids_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/nx/JohnCena_Cover_Online_Kids.tga.ckd/a74315a9fa4379015a6f46f7628a117b.ckd",
+				"cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/nx/JohnCena_Cover_1024.tga.ckd/bdd22518138fb60cedc98d6e0dec4d42.ckd",
+				"cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/nx/JohnCena_Cover_Online.tga.ckd/d2e4e21833a2b7f3673f380bd006a6b7.ckd",
+				"expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/nx/JohnCena_Cover_AlbumBkg.tga.ckd/7c8e64ffff3aa8c82eaec75ddb8278af.ckd",
+				"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/nx/JohnCena_Cover_AlbumCoach.tga.ckd/7f8a348b09f1c4b1ba2660336f14de26.ckd",
+				"map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/nx/JohnCena_map_bkg.tga.ckd/d14ca32a35b7d74d6286862af0c8fd6f.ckd",
+				"phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_Coach_1_Phone.png/2d2544deb70e2ea96b194531f0292b84.png",
+				"phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_Cover_Phone.jpg/15e7a2622b6b09de0ba133cf68c6c3b1.jpg",
+				"videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_VideoPreview.webm/e5a8a46fb35fd8ad39f85b1306a9bfa7.webm"
+			},
+			"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22677,45354,68032,90709,113386,136063,158740,181417,204095,226772,249449,272126,294803,317480,340158,362835,385512,408189,430866,453543,476221,498898,521575,544252,566929,589606,612284,634961,657638,680315,702992,725669,748347,771024,793701,816378,839055,861732,884410,907087,929764,952441,975118,997795,1020473,1043150,1065827,1088504,1111181,1133858,1156535,1179213,1201890,1224567,1247244,1269921,1292598,1315276,1337953,1360630,1383307,1405984,1428661],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":2,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":18,\"beats\":4}],\"startBeat\":-3,\"endBeat\":385,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/johncena/johncena_AudioPreview.ogg\"}",
+			"coachCount": 1,
+			"credits": "Written by Maya Wegerif and Thabo Moagi. Published by Black Cinderella Publishing/SonyATV. Courtesy of Black Cinderella Records.",
+			"difficulty": 3,
+			"jdmAttributes": [],
+			"lyricsColor": "F602FCFF",
+			"lyricsType": 0,
+			"mainCoach": -1,
+			"mapLength": 183.307,
+			"mapName": "JohnCena",
+			"mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"662107\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1500033\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2986333\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5916553\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+			"mode": 6,
+			"originalJDVersion": 2021,
+			"packages": {
+				"mapContent": "JohnCena_mapContent"
+			},
+			"parentMapName": "JohnCena",
+			"songColors": {
+				"songColor_1A": "444444FF",
+				"songColor_1B": "111111FF",
+				"songColor_2A": "AAAAAAFF",
+				"songColor_2B": "777777FF"
+			},
+			"status": 3,
+			"sweatDifficulty": 3,
+			"tags": [
+				"Main",
+				"subscribedSong",
+				"ExcluJD21_Quickplay ",
+				"Exclusive"
+			],
+			"title": "John Cena",
+			"urls": {
+				"jmcs://jd-contents/JohnCena/JohnCena_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_AudioPreview.ogg/78d0ccc0849ee66a9c978e00446c91b4.ogg",
+				"jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_MapPreviewNoSoundCrop_HIGH.vp8.webm/74ae570cab31ffd02438cd29375fd831.webm",
+				"jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_MapPreviewNoSoundCrop_HIGH.vp9.webm/94d7cc184f5208cdd43ed0df9743254d.webm",
+				"jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_MapPreviewNoSoundCrop_LOW.vp8.webm/575568f1acec76e5b1902456df750328.webm",
+				"jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_MapPreviewNoSoundCrop_LOW.vp9.webm/87c5970b7cd8578436cee869f9278c97.webm",
+				"jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_MapPreviewNoSoundCrop_MID.vp8.webm/b1dd18985e9391f4d07bcf140ba8fe7b.webm",
+				"jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_MapPreviewNoSoundCrop_MID.vp9.webm/add69e91cabd80ccb174a531d68942e0.webm",
+				"jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_MapPreviewNoSoundCrop_ULTRA.vp8.webm/cbefb72c3fce40fe667c086c59d60fff.webm",
+				"jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/JohnCena/JohnCena_MapPreviewNoSoundCrop_ULTRA.vp9.webm/39ce8a80dae858279d3834f0b3af33a2.webm"
+			},
+			"searchTags": [],
+			"searchTagsLocIds": [
+				20002261,
+				15275,
+				15287,
+				15291,
+				15179,
+				15197,
+				9349,
+				15196
+			],
+			"serverChangelist": 0
+		},
+		"BigBowlThickNoodleALT": {
+			"artist": "吴亦凡",
+			"assets": {
+				"banner_bkgImageUrl": "https://cdn.glitch.com/6a6cfa48-8cfb-42a5-8c21-d93fad559ac6/BigBowlThickNoodleALT_map_bkg.png",
+				"coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/ps4/BigBowlThickNoodleALT_Coach_1.tga.ckd/79076b2cb97fb7e8e915b7b881b5c03c.ckd",
+				"coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/ps4/BigBowlThickNoodleALT_Cover_Generic.tga.ckd/3c4f588089b201f5e1ad008fbf0bc220.ckd",
+				"cover_1024ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_Cover_1024.jpg/a8ec96f75095e592f43a59829463e5bb.jpg",
+				"cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/ps4/BigBowlThickNoodleALT_Cover_Online.tga.ckd/f19add5f95ae15c3edd2ebddfe6a2b23.ckd",
+				"expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/ps4/BigBowlThickNoodleALT_Cover_AlbumBkg.tga.ckd/003a81599017f1a6151ae8922ae5a494.ckd",
+				"expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/ps4/BigBowlThickNoodleALT_Cover_AlbumCoach.tga.ckd/c4b5cf19789f37fa7257abdf7286d3d1.ckd",
+				"map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/ps4/BigBowlThickNoodleALT_map_bkg.tga.ckd/ce105692f3c9250d06365a0ad346bc75.ckd",
+				"phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_Coach_1_Phone.png/6586f93f1ef7a5e4b0959d9008743fc8.png",
+				"phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_Cover_Phone.jpg/51afeb289ef0f3d6117e235517bc611e.jpg",
+				"videoPreviewVideoURL": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_VideoPreview.webm/17ee27363520faadedc206b2b9e38c20.webm"
+			},
+			"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28800,57600,86400,115200,144000,172800,201600,230400,259200,288000,316800,345600,374400,403200,432000,460800,489600,518400,547200,576000,604800,633600,662400,691200,720000,748800,777600,806400,835200,864000,892800,921600,950400,979200,1008000,1036800,1065600,1094400,1123200,1152000,1180800,1209600,1238400,1267200,1296000,1324800,1353600,1382400,1411200],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":364,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bigbowlthicknoodlealt/bigbowlthicknoodlealt_AudioPreview.ogg\"}",
+			"cnlyrics": "碗大 宽无影 面长 消失 像儿时的回忆  从来不敢去相信 大碗能让你开心 但这确是我本意 也许是一种天意 切磋武艺切磋一下 武林高手来一比高下 千军万马就一声令下 面馆相见这千钧一发  何必针锋相对 你看这碗又大又圆 相聚就要举起杯 你看这面又长又宽 武侠小说看流泪 从来不相信魔鬼 有时生活特别累 别馋大碗宽面别流泪  这碗大 千万别虚荣心作祟 真心话 这大碗宽面也很贵 先别说话 不想给你机会先别怼 就散了吧 听完这首歌就洗洗睡  我这一生漂泊四海看淡了今朝 月高高的挂无暇 人生能有几次机会相聚甚是少 情谊别轻易放掉  Ah wu ah nah Ah wu ah yeh Ohh人生如戏开个小玩笑 玩笑  别去轻易否定自己 你拥有你的天地 没人能够把你定义 快乐才是真谛  所以何必针锋相对 你看这碗又大又圆 相聚就要举起杯 你看这面又长又宽 感觉 镜花水月 我一声笑傲江湖 我只身闯江湖 何必分出胜负  这碗大 千万别虚荣心作祟 真心话 这大碗宽面也很贵 先别说话 不想给你机会先别怼 就散了吧 听完这首歌就洗洗睡   我这一生漂泊四海看淡了今朝 月高高的挂无暇 人生能有几次机会相聚甚是少 情谊别轻易放掉  门前雨落下 我浪迹天涯 有儿女情长 悲欢离合呀",
+			"coachCount": 1,
+			"credits": "Written by Yifan Wu. Published by Universal Music Publishing Canada on behalf of Songs Of Universal, Inc. Courtesy of Interscope Records/Universal Music China under license from Universal Music Enterprises.",
+			"difficulty": 3,
+			"jdcReleaseDate": "2021-07-16T12:00:00",
+			"jdmAttributes": [],
+			"lyricsColor": "FF200AFF",
+			"lyricsType": 0,
+			"mainCoach": -1,
+			"mapLength": 219.6,
+			"mapName": "BigBowlThickNoodleALT",
+			"mapPreviewMpd": {
+				"videoEncoding": {
+					"vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"501909\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"675-1165\">\r\n\t\t\t\t\t<Initialization range=\"0-675\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484211\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"676-1166\">\r\n\t\t\t\t\t<Initialization range=\"0-676\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2893898\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"676-1166\">\r\n\t\t\t\t\t<Initialization range=\"0-676\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4925665\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"676-1168\">\r\n\t\t\t\t\t<Initialization range=\"0-676\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+					"vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"645872\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"676-1166\">\r\n\t\t\t\t\t<Initialization range=\"0-676\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1488016\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"676-1166\">\r\n\t\t\t\t\t<Initialization range=\"0-676\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2975295\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"676-1166\">\r\n\t\t\t\t\t<Initialization range=\"0-676\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5942225\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"676-1173\">\r\n\t\t\t\t\t<Initialization range=\"0-676\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+				}
+			},
+			"mode": 6,
+			"originalJDVersion": 2020,
+			"packages": {
+				"mapContent": "BigBowlThickNoodleALT_mapContent"
+			},
+			"parentMapName": "BigBowlThickNoodle",
+			"songColors": {
+				"songColor_1A": "0011a6FF",
+				"songColor_1B": "000959FF",
+				"songColor_2A": "6d00b0FF",
+				"songColor_2B": "91f2ffFF"
+			},
+			"status": 3,
+			"subcredits": "吴亦凡创作。Universal Music Publishing Canada代表Song Of Universal, Inc.出版发行。承蒙Interscope Records/Universal Music China经Universal Music Enterprises许可后提供。",
+			"subtitle": "*大碗宽面 (Da Wan Kuan Mian)",
+			"sweatDifficulty": 2,
+			"tags": [
+				"Alternate",
+				"subscribedSong"
+			],
+			"title": "大碗宽面 (Da Wan Kuan Mian)",
+			"urls": {
+				"jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_AudioPreview.ogg/c5eb3a84a4599ebea90184fddb1643d4.ogg",
+				"jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/3deabb7eebed527ddadd30b728f88f13.webm",
+				"jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/57368d0b2fa4dc6fcc8248ffc4974a36.webm",
+				"jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_LOW.vp8.webm/2d48d1d3bb65bed6b843744be71a01f5.webm",
+				"jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_LOW.vp9.webm/08017551ca3311d87dbd5cddfcaade31.webm",
+				"jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_MID.vp8.webm/9c8a42b5c6f00dd58a4edc8c30027860.webm",
+				"jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_MID.vp9.webm/60e1fa5dac5fc74f40a543318d04c8a5.webm",
+				"jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/2283aa80302e238b60bed0312b4b076e.webm",
+				"jmcs://jd-contents/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodleALT/BigBowlThickNoodleALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f1b9866cbfe89f20bf85e77b4940ed02.webm"
+			},
+			"customTypeName": "特别版本",
+			"serverChangelist": 589513
+		},
+		"BBoomBBoom": {
+			"artist": "MOMOLAND",
+			"assets": {
+				"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870413566572892180/latest.png",
+				"coach1ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870413661380960336/Bboombboom_coach_1_phone.png",
+				"coach2ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870413737482420235/Bboombboom_coach_2_phone.png",
+				"coach3ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870413806847815711/Bboombboom_coach_3_phone.png",
+				"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870413876641038366/Bboombboom_cover_generic.png",
+				"expandCoachImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870413935742971964/BBoomBBoom_Cover_AlbumCoach.png",
+				"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870413661380960336/Bboombboom_coach_1_phone.png",
+				"phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870413737482420235/Bboombboom_coach_2_phone.png",
+				"phoneCoach3ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870413806847815711/Bboombboom_coach_3_phone.png",
+				"videoPreviewVideoURL": "http://jd-s3.akamaized.net/public/map/BBoomBBoom/BBoomBBoom_VideoPreview.webm/216963580b997a5f2e44b0556df8e36c.webm",
+				"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870414171769020416/Bboombboom_cover_generic.png"
+			},
+			"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 22848, 45696, 68544, 91392, 114240, 137088, 159936, 182784, 205632, 228480, 251328, 274176, 297024, 319872, 342720, 365568, 388416, 411264, 434112, 456960, 479808, 502656, 525504, 548352, 571152, 594000, 616848, 639696, 662544, 685392, 708240, 731089, 753937, 776833, 799681, 822529, 845377, 868225, 891121, 913969, 936817, 959665, 982561, 1005409, 1028257, 1051105, 1074001, 1096849, 1119697, 1142545, 1165393, 1188241, 1211137, 1233985, 1256833, 1279681, 1302529, 1325377, 1348225, 1371121, 1393969, 1416817, 1439666, 1462514, 1485362, 1508210, 1531106, 1553954, 1576802, 1599650, 1622498, 1645394, 1668242, 1691090, 1713938, 1736786, 1759634, 1782530, 1805378, 1828226, 1851074, 1873922, 1896818, 1919666, 1942514, 1965362, 1988210, 2011058, 2033954, 2056802, 2079650, 2102498, 2125346, 2148242, 2171091, 2193939, 2216787, 2239635, 2262483, 2285379, 2308227, 2331075, 2353923, 2376771, 2399667, 2422515, 2445363, 2468211, 2491059, 2513907, 2536803, 2559651, 2582499, 2605347, 2628195, 2651091, 2673939, 2696787, 2719635, 2742531, 2765379, 2788227, 2811075, 2833971, 2856819, 2879668, 2902516, 2925412, 2948260, 2971108, 2993956, 3016852, 3039700, 3062548, 3085396, 3108244, 3131140, 3153988, 3176836, 3199684, 3222580, 3245428, 3268276, 3291124, 3313924, 3336772, 3359620, 3382516, 3405364, 3428212, 3451060, 3473908, 3496804, 3519652, 3542500, 3565348, 3588245, 3611093, 3633941, 3656789, 3679637, 3702533, 3725381, 3748229, 3771077, 3793925, 3816821, 3839669, 3862517, 3885365, 3908213, 3931109, 3953957, 3976805, 3999653, 4022501, 4045397, 4068245, 4091093, 4113941, 4136837, 4159685, 4182533, 4205381, 4228277, 4251125, 4273973, 4296821, 4319670, 4342566, 4365414, 4388262, 4411110, 4434006, 4456854, 4479702, 4502550, 4525446, 4548294, 4571142, 4593990, 4616838, 4639734, 4662582, 4685430, 4708278, 4731174, 4754022, 4776870, 4799718, 4822566, 4845462, 4868310, 4891158, 4914006, 4936854, 4959702, 4982550, 5005446, 5028295, 5051143, 5073991, 5096839, 5119687, 5142583, 5165431, 5188279, 5211127, 5233975, 5256823, 5279671, 5302519, 5325415, 5348263, 5371111, 5393959, 5416807, 5439655, 5462503, 5485351, 5508247, 5531095, 5553943, 5576791, 5599639, 5622487, 5645383, 5668231, 5691079, 5713927, 5736776, 5759624, 5782520, 5805368, 5828216, 5851064, 5873912, 5896808, 5919656, 5942504, 5965352, 5988200, 6011096, 6033944, 6056792, 6079640, 6102488, 6125384, 6148232, 6171080, 6193928, 6216776, 6239624, 6262520, 6285368, 6308216, 6331064, 6353912, 6376808, 6399656, 6422504, 6445352, 6468201, 6491097, 6513945, 6536793, 6559641, 6582489, 6605385, 6628233, 6651081, 6673929, 6696777, 6719673, 6742521, 6765369, 6788217, 6811065, 6833961, 6856809, 6879657, 6902505, 6925353, 6948201, 6971097, 6993945, 7016793, 7039641, 7062489, 7085385, 7108233, 7131081, 7153929, 7176778, 7199674, 7222522, 7245370, 7268218, 7291066, 7313914, 7336810, 7359658, 7382506, 7405354, 7428202, 7451098, 7473946, 7496794, 7519642, 7542490, 7565386, 7588234, 7611082, 7633930, 7656778, 7679626, 7702522, 7725370, 7748218, 7771066, 7793914, 7816810, 7839658, 7862506, 7885355, 7908203, 7931099, 7953947, 7976795, 7999643, 8022491, 8045339, 8068235, 8091083, 8113931, 8136779, 8159627, 8182523, 8205371, 8228219, 8251067, 8273915, 8296811, 8319659, 8342507, 8365355, 8388203, 8411099, 8433947, 8456795, 8479643, 8502491, 8525387, 8548235, 8571083, 8593931, 8616780, 8639628, 8662524, 8685372, 8708220, 8731068, 8753916, 8776812, 8799660, 8822508, 8845356, 8868204, 8891100, 8913948, 8936796, 8959644, 8982492, 9005388, 9028236, 9051084, 9073932, 9096780, 9119676, 9142524, 9165372, 9188220, 9211068, 9233964, 9256812, 9279660, 9302508, 9325357, 9348205, 9371101, 9393949, 9416797, 9439645, 9462493, 9485389, 9508237, 9531085, 9553933, 9576781, 9599677, 9622525, 9645373, 9668221, 9691069, 9713965, 9736813, 9759661, 9782509, 9805357, 9828253, 9851101, 9873949, 9896797, 9919645, 9942541, 9965389, 9988237, 10011085, 10033934],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":-7,\"endBeat\":439,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":-3.332000,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/BBoomBBoom/BBoomBBoom_AudioPreview.ogg\"}",
+			"coachCount": 3,
+			"credits": "@JD WORLD @RAMA",
+			"difficulty": 3,
+			"doubleScoringType": -1,
+			"jdmAttributes": [],
+			"lyricsColor": "4D73FFff",
+			"lyricsType": 0,
+			"mainCoach": -1,
+			"mapLength": 358,
+			"mapName": "BBoomBBoom",
+			"mode": 6,
+			"originalJDVersion": 2019,
+			"packages": {
+				"mapContent": "BBoomBBoom_mapContent"
+			},
+			"parentMapName": "BBoomBBoom",
+			"skuIds": [
+				"jd2016-ps4-scea",
+				"jd2016-ps4-scee",
+				"jd2016-wiiu-noa",
+				"jd2016-wiiu-noe",
+				"jd2016-xone-emea",
+				"jd2016-xone-ncsa"
+			],
+			"songColors": {
+				"songColor_1A": "FAFAD2ff",
+				"songColor_1B": "FFB6C1ff",
+				"songColor_2A": "FAFAD2ff",
+				"songColor_2B": "FFB6C1ff"
+			},
+			"status": 5,
+			"sweatDifficulty": 1,
+			"tags": [
+				"Main"
+			],
+			"title": "BBoom BBoom",
+			"urls": {
+				"jmcs://jd-contents/BBoomBBoom/BBoomBBoom_AudioPreview.ogg": "https://cdn.glitch.com/d08d0cb9-604b-4041-9e49-9d86badc48ad%2Fbboombboompreview.ogg?v=1613893024459"
+			},
+			"serverChangelist": 535312
+		},
+		"JDCGee": {
+			"artist": "Girls Generation",
+			"assets": {
+				"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870413109620260965/67576.png",
+				"coach1ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870409350416576592/Jdcgee_coach_1.png",
+				"coach2ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870409408289570856/Jdcgee_coach_2.png",
+				"coach3ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870409473607483432/Jdcgee_coach_3.png",
+				"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870409537641930872/Jdcgee_2s_cover.png",
+				"expandCoachImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870409594491515011/Jdcgee_cover_albumcoach.png",
+				"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870409755661840384/Jdcgee_coach_1.png",
+				"phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870409806211579934/Jdcgee_coach_2.png",
+				"phoneCoach3ImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870409881381896202/Jdcgee_coach_3.png",
+				"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870409932137168918/Jdcgee_2s_cover.png"
+			},
+			"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25488,50976,76464,101952,127440,152928,178416,203904,229392,254880,280368,305856,331344,356832,382320,407809,433297,458785,484225,509713,535201,560689,586177,611665,637153,662641,688129,713617,739105,764593,790081,815570,841058,866546,892034,917522,943010,968498,993986,1019474,1044962,1070450,1095938,1121426,1146914,1172402,1197891,1223379,1248867,1274355,1299843,1325331,1350819,1376307,1401795,1427283,1452723,1478211,1503699,1529187,1554675,1580163,1605652,1631140,1656628,1682116,1707604,1733092,1758580,1784068,1809556,1835044,1860532,1886020,1911508,1936996,1962484,1987972],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":-6,\"endBeat\":318,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":-3.564000,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/jdcgee/jdcgee_AudioPreview.ogg\"}",
+			"coachCount": 3,
+			"credits": "JD WORLD TEAM @RAMA",
+			"difficulty": 3,
+			"doubleScoringType": -1,
+			"jdmAttributes": [],
+			"lyricsColor": "4D73FFff",
+			"lyricsType": 0,
+			"mainCoach": -1,
+			"mapLength": 358,
+			"mapName": "JDCGee",
+			"mode": 6,
+			"originalJDVersion": 2021,
+			"packages": {
+				"mapContent": "JDCGee_mapContent"
+			},
+			"parentMapName": "JDCGee",
+			"skuIds": [
+				"jd2017-pc-ww"
+			],
+			"songColors": {
+				"songColor_1A": "FAFAD2ff",
+				"songColor_1B": "FFB6C1ff",
+				"songColor_2A": "FAFAD2ff",
+				"songColor_2B": "FFB6C1ff"
+			},
+			"status": 5,
+			"sweatDifficulty": 1,
+			"tags": [
+				"Main",
+				"freeSong"
+			],
+			"title": "Gee",
+			"urls": {
+				"jmcs://jd-contents/JDCGee/JDCGee_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/869666322391367781/870413303162228756/jdcgee.ogg"
+			},
+			"serverChangelist": 535312
+		}
+	},
+	"songdbUrl": "https://prod.just-dance.com/songdb/v2/songs",
+	"localisationUrl": "https://cdn.discordapp.com/attachments/869666322391367781/870309350403637288/localisation.4b18424f79c36df2f287e3fad8ea616b.json"
+}

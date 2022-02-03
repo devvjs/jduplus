@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/BrokenHeart/BrokenHeart_ULTRA.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FBrokenHeart_ULTRA.webm?v=1618739385423",
+    "jmcs://jd-contents/BrokenHeart/BrokenHeart_HIGH.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FBrokenHeart_HIGH.webm?v=1618739163366",
+    "jmcs://jd-contents/BrokenHeart/BrokenHeart_MID.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FBrokenHeart_MID.webm?v=1618739076358",
+    "jmcs://jd-contents/BrokenHeart/BrokenHeart_LOW.webm": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FBrokenHeart_LOW.webm?v=1618739002466",
+    "jmcs://jd-contents/BrokenHeart/BrokenHeart.ogg": "https://cdn.glitch.com/a0d3f6e9-2b13-4ee8-bbb2-515829cdd7cf%2FBrokenHeart.ogg?v=1618738988413"
+  }
+}

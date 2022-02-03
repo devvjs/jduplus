@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/TakiTaki/TakiTaki_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTakiTaki_ULTRA.webm?v=1614241125818",
+    "jmcs://jd-contents/TakiTaki/TakiTaki_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTakiTaki_HIGH.webm?v=1614240974853",
+    "jmcs://jd-contents/TakiTaki/TakiTaki_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTakiTaki_MID.webm?v=1614240770815",
+    "jmcs://jd-contents/TakiTaki/TakiTaki_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTakiTaki_LOW.webm?v=1614240685593",
+    "jmcs://jd-contents/TakiTaki/TakiTaki.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTakiTaki.ogg?v=1614240665822"
+  }
+}

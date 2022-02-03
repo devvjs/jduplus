@@ -1,0 +1,13 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300000,
+    "changelist": 300,
+    "urls": {
+      "jmcs://jd-contents/WildWildWestQUAT/WildWildWestQUAT_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0/WildWildWestQUAT_ULTRA.webm",
+      "jmcs://jd-contents/WildWildWestQUAT/WildWildWestQUAT_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0/WildWildWestQUAT_HIGH.webm",
+      "jmcs://jd-contents/WildWildWestQUAT/WildWildWestQUAT_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0/WildWildWestQUAT_MID.webm",
+      "jmcs://jd-contents/WildWildWestQUAT/WildWildWestQUAT_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0/WildWildWestQUAT_LOW.webm",
+      "jmcs://jd-contents/WildWildWestQUAT/WildWildWestQUAT.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0/WildWildWestQUAT.ogg"
+    }
+  }
+  

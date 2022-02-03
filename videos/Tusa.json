@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Tusa/Tusa_ULTRA.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FTusa_ULTRA.webm?v=1610644422661",
+    "jmcs://jd-contents/Tusa/Tusa_HIGH.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FTusa_HIGH.webm?v=1610644410910",
+    "jmcs://jd-contents/Tusa/Tusa_MID.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FTusa_MID.webm?v=1610644412256",
+    "jmcs://jd-contents/Tusa/Tusa_LOW.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FTusa_LOW.webm?v=1610644398837",
+    "jmcs://jd-contents/Tusa/Tusa.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FTusa.ogg?v=1610644416331"
+  }
+}

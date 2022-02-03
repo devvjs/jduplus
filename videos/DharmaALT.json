@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/DharmaALT/DharmaALT_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FDharmaALT_ULTRA.webm?v=1617022021250",
+    "jmcs://jd-contents/DharmaALT/DharmaALT_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FDharmaALT_HIGH.webm?v=1617021954770",
+    "jmcs://jd-contents/DharmaALT/DharmaALT_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FDharmaALT_MID.webm?v=1617021938769",
+    "jmcs://jd-contents/DharmaALT/DharmaALT_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FDharmaALT_LOW.webm?v=1617021902145",
+    "jmcs://jd-contents/DharmaALT/DharmaALT.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FDharmaALT.ogg?v=1617021885761"
+  }
+}

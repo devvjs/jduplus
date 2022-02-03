@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Medicina/Medicina_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMedicina_ULTRA.webm?v=1615705206346",
+    "jmcs://jd-contents/Medicina/Medicina_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMedicina_HIGH.webm?v=1615705138724",
+    "jmcs://jd-contents/Medicina/Medicina_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMedicina_MID.webm?v=1615705107441",
+    "jmcs://jd-contents/Medicina/Medicina_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMedicina_LOW.webm?v=1615705058061",
+    "jmcs://jd-contents/Medicina/Medicina.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMedicina.ogg?v=1615705060170"
+  }
+}

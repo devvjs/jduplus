@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/ElectroTribalDLC/ElectroTribalDLC_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FElectroTribalDLC_ULTRA.webm?v=1619883807874",
+    "jmcs://jd-contents/ElectroTribalDLC/ElectroTribalDLC_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FElectroTribalDLC_HIGH.webm?v=1619883617924",
+    "jmcs://jd-contents/ElectroTribalDLC/ElectroTribalDLC_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FElectroTribalDLC_MID.webm?v=1619883511250",
+    "jmcs://jd-contents/ElectroTribalDLC/ElectroTribalDLC_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FElectroTribalDLC_LOW.webm?v=1619883435762",
+    "jmcs://jd-contents/ElectroTribalDLC/ElectroTribalDLC.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FElectroTribalDLC.ogg?v=1619883415371"
+  }
+}

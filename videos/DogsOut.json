@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/DogsOut/DogsOut_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FDogsOut_ULTRA.webm?v=1618942282591",
+    "jmcs://jd-contents/DogsOut/DogsOut_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FDogsOut_HIGH.webm?v=1618942152603",
+    "jmcs://jd-contents/DogsOut/DogsOut_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FDogsOut_MID.webm?v=1618942083335",
+    "jmcs://jd-contents/DogsOut/DogsOut_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FDogsOut_LOW.webm?v=1618942055596",
+    "jmcs://jd-contents/DogsOut/DogsOut.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FDogsOut.ogg?v=1618942055596"
+  }
+}

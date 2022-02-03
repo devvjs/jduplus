@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/FunkyTown/FunkyTown_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FFunkyTown_ULTRA.webm?v=1619885151251",
+    "jmcs://jd-contents/FunkyTown/FunkyTown_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FFunkyTown_HIGH.webm?v=1619884836257",
+    "jmcs://jd-contents/FunkyTown/FunkyTown_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FFunkyTown_MID.webm?v=1619884766244",
+    "jmcs://jd-contents/FunkyTown/FunkyTown_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FFunkyTown_LOW.webm?v=1619884724247",
+    "jmcs://jd-contents/FunkyTown/FunkyTown.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FFunkyTown.ogg?v=1619884707262"
+  }
+}

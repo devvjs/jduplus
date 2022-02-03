@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Dancando/Dancando_ULTRA.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/clean.Dancando_ULTRA_HIGH.webm",
+    "jmcs://jd-contents/Dancando/Dancando_HIGH.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/clean.Dancando_ULTRA_HIGH.webm",
+    "jmcs://jd-contents/Dancando/Dancando_MID.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/clean.Dancando_MID.webm",
+    "jmcs://jd-contents/Dancando/Dancando_LOW.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/clean.Dancando_LOW.webm",
+    "jmcs://jd-contents/Dancando/Dancando.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Dancando.ogg"
+  }
+}
